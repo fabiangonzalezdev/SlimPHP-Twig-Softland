@@ -1,0 +1,10 @@
+/vendor/
+/node_modules/
+/public/assets/vendor/
+/public/assets/css/
+/public/assets/js/
+/.env
+/.idea/
+/.vscode/
+/*.log
+.DS_Store
